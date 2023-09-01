@@ -1,28 +1,133 @@
 {
-    "results": [{ "id": "zdj0bfkjsmup6pkb2rpmbw", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face." },
-{ "id": "lhan43nqsgowtaffzxouua", "date": "2016-05-01 10:51:41.584544", "value": "Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide." },
-{ "id": "5xvmye0t9awb7xfgntxdq", "date": "2016-05-01 10:51:41.584544", "value": "Contrary to popular belief, there is indeed enough Chuck Norris to go around." },
-{ "id": "nzf46249t8cf7wgz3rf_rg", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris doesn''t have disk latency because the hard drive knows to hurry the hell up." },
-{ "id": "LNqCW_FmQ5ubonXnop02kQ", "date": "2016-05-01 10:51:41.584544", "value": "The only thing you can beat Chuck Norris at is the number of times you''ve had your face kicked in." },
-{ "id": "JMez1nOcRfC1RqItPub0Mw", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris once spit on a lizard. The result is tyrannosaurus rex." },
-{ "id": "chowpc2sv6uyrfkjcilg", "date": "2016-05-01 10:51:41.584544", "value": "Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off." },
-{ "id": "h2y1uucftfsrzhhussrbiq", "date": "2016-05-01 10:51:41.584544", "value": "The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off." },
-{ "id": "JtSAf7NWQruhZn4ZGGGxaQ", "date": "2016-05-01 10:51:41.584544", "value": "They once made Chuck Norris toilet paper. The only problem was that it wouldn''t take shit from no one!" },
-{ "id": "43axmohctpkmoye5fixvpg", "date": "2016-05-01 10:51:41.584544", "value": "A man once asked Chuck Norris if his real name is Charles. Chuck Norris did not respond, he simply stared at him until he exploded." },
-{ "id": "4qiguc9qeqqcjiv5uqjcw", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris is not Irish. His hair is soaked in the blood of his victims." },
-{ "id": "fwnuhljktgw4vj7ra0axow", "date": "2016-05-01 10:51:41.584544", "value": "Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol." },
-{ "id": "TGFYYh2hTiazBHV02yLlrQ", "date": "2016-05-01 10:51:41.584544", "value": "''Hakuna Matata'' is actually Swahili for ''all hail Chuck Norris''." },
-{ "id": "HBnbseBFQEaBf2ZMpWdCHQ", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris'' gaydar is so finely tuned he can tell if you have EVER stared at another man''s ass and will brutally kill you accordingly." },
-{ "id": "WlZRgOzfDp9TzPyOQ", "date": "2016-05-01 10:51:41.584544", "value": "No matter which part of Chuck Norris you aim at, the bullet will always hit the center of your forehead." },
-{ "id": "0wdewlp2tzmt_upesvrjw", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris." },
-{ "id": "etu5stytromsxrgybafqca", "date": "2016-05-01 10:51:41.584544", "value": "In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character." },
-{ "id": "4zavbyaktuqhluply6eqmw", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris uses tabasco sauce instead of visine." },
-{ "id": "tnr_ylf0tciqndymlnmw5g", "date": "2016-05-01 10:51:41.584544", "value": "In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer." },
-{ "id": "fw_gwlvrsl7fxjvezotuq", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris doesn''t believe in ravioli. He stuffs a live turtle with beef and smothers it in pig''s blood." },
-{ "id": "uv5jvundsfuyiuiwswy3ba", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris did in fact, build Rome in a day." },
-{ "id": "pncmdsdysaka9zrlafhleg", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris doesn''t read books. He stares them down until he gets the information he wants." },
-{ "id": "pbwSUgV0QAK8N6JYIUnc_Q", "date": "2016-05-01 10:51:41.584544", "value": "The crickets don''t chirp at Chuck Norris'' house, if they know what''s good for them." },
-{ "id": "ezudmintc6uvfuzreclpq", "date": "2016-05-01 10:51:41.584544", "value": "If you spell Chuck Norris in Scrabble, you win. Forever." },
-{ "id": "j39yav35q4cflrhx6zol_a", "date": "2016-05-01 10:51:41.584544", "value": "Chuck Norris''s brain waves are suspected to be harmful to cell phones." },
-{ "id": "ybNIK9GScaNSMWewihm0w", "date": "2016-05-01 10:51:41.584544", "value": "Who knows what evil lurks in the hearts of men? Goddamn Chuck Norris, that''s who." }
+	"results": [{
+			"id": "zdj0bfkjsmup6pkb2rpmbw",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face."
+		},
+		{
+			"id": "lhan43nqsgowtaffzxouua",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide."
+		},
+		{
+			"id": "5xvmye0t9awb7xfgntxdq",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Contrary to popular belief, there is indeed enough Chuck Norris to go around."
+		},
+		{
+			"id": "nzf46249t8cf7wgz3rf_rg",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris doesn''t have disk latency because the hard drive knows to hurry the hell up."
+		},
+		{
+			"id": "LNqCW_FmQ5ubonXnop02kQ",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "The only thing you can beat Chuck Norris at is the number of times you''ve had your face kicked in."
+		},
+		{
+			"id": "JMez1nOcRfC1RqItPub0Mw",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris once spit on a lizard. The result is tyrannosaurus rex."
+		},
+		{
+			"id": "chowpc2sv6uyrfkjcilg",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off."
+		},
+		{
+			"id": "h2y1uucftfsrzhhussrbiq",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off."
+		},
+		{
+			"id": "JtSAf7NWQruhZn4ZGGGxaQ",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "They once made Chuck Norris toilet paper. The only problem was that it wouldn''t take shit from no one!"
+		},
+		{
+			"id": "43axmohctpkmoye5fixvpg",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "A man once asked Chuck Norris if his real name is Charles. Chuck Norris did not respond, he simply stared at him until he exploded."
+		},
+		{
+			"id": "4qiguc9qeqqcjiv5uqjcw",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris is not Irish. His hair is soaked in the blood of his victims."
+		},
+		{
+			"id": "fwnuhljktgw4vj7ra0axow",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol."
+		},
+		{
+			"id": "TGFYYh2hTiazBHV02yLlrQ",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "''Hakuna Matata'' is actually Swahili for ''all hail Chuck Norris''."
+		},
+		{
+			"id": "HBnbseBFQEaBf2ZMpWdCHQ",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris'' gaydar is so finely tuned he can tell if you have EVER stared at another man''s ass and will brutally kill you accordingly."
+		},
+		{
+			"id": "WlZRgOzfDp9TzPyOQ",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "No matter which part of Chuck Norris you aim at, the bullet will always hit the center of your forehead."
+		},
+		{
+			"id": "0wdewlp2tzmt_upesvrjw",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris."
+		},
+		{
+			"id": "etu5stytromsxrgybafqca",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character."
+		},
+		{
+			"id": "4zavbyaktuqhluply6eqmw",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris uses tabasco sauce instead of visine."
+		},
+		{
+			"id": "tnr_ylf0tciqndymlnmw5g",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer."
+		},
+		{
+			"id": "fw_gwlvrsl7fxjvezotuq",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris doesn''t believe in ravioli. He stuffs a live turtle with beef and smothers it in pig''s blood."
+		},
+		{
+			"id": "uv5jvundsfuyiuiwswy3ba",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris did in fact, build Rome in a day."
+		},
+		{
+			"id": "pncmdsdysaka9zrlafhleg",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris doesn''t read books. He stares them down until he gets the information he wants."
+		},
+		{
+			"id": "pbwSUgV0QAK8N6JYIUnc_Q",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "The crickets don''t chirp at Chuck Norris'' house, if they know what''s good for them."
+		},
+		{
+			"id": "ezudmintc6uvfuzreclpq",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "If you spell Chuck Norris in Scrabble, you win. Forever."
+		},
+		{
+			"id": "j39yav35q4cflrhx6zol_a",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Chuck Norris''s brain waves are suspected to be harmful to cell phones."
+		},
+		{
+			"id": "ybNIK9GScaNSMWewihm0w",
+			"date": "2016-05-01 10:51:41.584544",
+			"value": "Who knows what evil lurks in the hearts of men? Goddamn Chuck Norris, that''s who."
+		}
+	]
 }
